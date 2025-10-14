@@ -5,7 +5,7 @@ Embedded systems | Kernel Development | Baremetal programming | RTOS
 ## 👨‍💻 About Me
 Hi, I'm DARSHAN KHARBIKAR. 
 - I work on testing and development of 5G Base Station
-- I am a proud owner of STM32F411, ESP32 DevKit V1, and Raspberry Pi 4B building RTOS and embedded Linux systems.
+- I am a proud owner of STM32F411(ARM CORTEX M4), ESP32 DevKit V1(XTENSA L6), and Raspberry Pi 4B(ARM CORTEX A-72) building RTOS and embedded Linux systems.
 - Focus: platform bring-up, baremetal programming, HAL, kernel modules, and secure firmware.
 - Platform bring-up and configuration of Xilinx ZCU102 and Raspberry Pi.
 - Development, integration, and testing of 5G gNB components (CN, CU/DU, RU – Benetel and VVDN).
