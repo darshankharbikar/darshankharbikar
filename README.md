@@ -48,4 +48,4 @@ Hi, I'm DARSHAN KHARBIKAR.
 -->
 
 ## ✉️ Connect
-[LinkedIn](https://www.linkedin.com/in/darshan-kharbikar) • [Project Portfolio](https://docs.google.com/document/d/1-bjDO0rQ7S-xQnT2fSNPpIx6qpqwVRiuU0a_JU18FDI/edit?tab=t.0#heading=h.eg7rf8to2y4s)  • email: darshankharbikar@gmail.com
+[LinkedIn](https://www.linkedin.com/in/darshan-kharbikar) [My Youtube Channel](https://www.youtube.com/@engrdarshankharbikar)• [Project Portfolio](https://docs.google.com/document/d/1-bjDO0rQ7S-xQnT2fSNPpIx6qpqwVRiuU0a_JU18FDI/edit?tab=t.0#heading=h.eg7rf8to2y4s)  • email: darshankharbikar@gmail.com
