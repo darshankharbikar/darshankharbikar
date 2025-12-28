@@ -38,7 +38,7 @@ Hi, I'm DARSHAN KHARBIKAR.
 ## 🔭 Featured Projects
 - **Pi-NAS** — [RPi4 NAS with USB Storage, Samba for drag and drop, flask for web dashboard](https://github.com/Darshan265/MTech-Dissertation-RPI-NAS)
 - **RTOS Task Scheduler on STM32**-[Created a mini RTOS visualizer over UART for task status monitoring](https://github.com/darshankharbikar/RTOS-Task-Scheduler-on-STM32)
-- **Bare-metal GPIO and  UART Drivers (STM32)**-[Wrote low-level drivers without SDK support using TRM references and register maps.]([Wrote low-level drivers without SDK support using TRM references and register maps.](https://github.com/darshankharbikar/Bare-metal-GPIO-and-UART-Drivers-STM32F411-)
+- **Bare-metal GPIO and  UART Drivers (STM32)**-[Wrote low-level drivers without SDK support using TRM references and register maps.](https://github.com/darshankharbikar/Bare-metal-GPIO-and-UART-Drivers-STM32F411-)
 - **Custom I2C Kernel Driver for BME680 Sensor (Linux Kernel 6.x, Raspberry Pi 4B)**-[Develop a minimal Linux kernel I2C driver for BME680 sensor on Raspberry Pi that exposes raw temperature ADC values via sysfs](https://github.com/darshankharbikar/Custom-I2C-Kernel-Driver)
 <!--
 - **esp32-freertos** — FreeRTOS tasks, queues, MQTT demos — [repo](https://github.com/<your-username>/esp32-freertos)  
