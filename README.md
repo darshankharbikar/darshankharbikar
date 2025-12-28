@@ -36,7 +36,10 @@ Hi, I'm DARSHAN KHARBIKAR.
 
 
 ## 🔭 Featured Projects
-- **Pi-NAS** — [RPi4 NAS with USB Storage, Samba for drag and drop, flask for web dashboard](https://github.com/Darshan265/MTech-Dissertation-RPI-NAS)  
+- **Pi-NAS** — [RPi4 NAS with USB Storage, Samba for drag and drop, flask for web dashboard](https://github.com/Darshan265/MTech-Dissertation-RPI-NAS)
+- **RTOS Task Scheduler on STM32**-[Created a mini RTOS visualizer over UART for task status monitoring](https://github.com/darshankharbikar/RTOS-Task-Scheduler-on-STM32)
+- **Bare-metal GPIO and  UART Drivers (STM32)**-[Wrote low-level drivers without SDK support using TRM references and register maps.](Wrote low-level drivers without SDK support using TRM references and register maps.)
+- **Custom I2C Kernel Driver for BME680 Sensor (Linux Kernel 6.x, Raspberry Pi 4B)**-[Develop a minimal Linux kernel I2C driver for BME680 sensor on Raspberry Pi that exposes raw temperature ADC values via sysfs](https://github.com/darshankharbikar/Custom-I2C-Kernel-Driver)
 <!--
 - **esp32-freertos** — FreeRTOS tasks, queues, MQTT demos — [repo](https://github.com/<your-username>/esp32-freertos)  
 - **stm32f411-bm** — Bare-metal drivers for UART/SPI/I2C — [repo](https://github.com/<your-username>/stm32f411-baremetal)
@@ -48,4 +51,4 @@ Hi, I'm DARSHAN KHARBIKAR.
 -->
 
 ## ✉️ Connect
-•[LinkedIn](https://www.linkedin.com/in/darshan-kharbikar) •[My Youtube Channel](https://www.youtube.com/@engrdarshankharbikar)• [Project Portfolio](https://docs.google.com/document/d/1-bjDO0rQ7S-xQnT2fSNPpIx6qpqwVRiuU0a_JU18FDI/edit?tab=t.0#heading=h.eg7rf8to2y4s)  • email: darshankharbikar@gmail.com
+•[LinkedIn](https://www.linkedin.com/in/darshan-kharbikar) •[My Youtube Channel](https://www.youtube.com/@engrdarshankharbikar)• [My Project Portfolio](https://docs.google.com/document/d/1-bjDO0rQ7S-xQnT2fSNPpIx6qpqwVRiuU0a_JU18FDI/edit?tab=t.0#heading=h.eg7rf8to2y4s)  • email: darshankharbikar@gmail.com
