@@ -1,4 +1,4 @@
-# DARSHAN KHARBIKAR — Embedded Systems Engineer
+# DARSHAN KHARBIKAR — Sr. Systems Software Engineer
 Embedded systems | Kernel Development | Baremetal programming | RTOS 
 | 5G gNB testing
 
