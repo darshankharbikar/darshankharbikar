@@ -23,14 +23,14 @@ Hi, I'm DARSHAN KHARBIKAR.
 ## 📊 Work Metrics
 | Metric | Value |
 |-------:|:-----:|
-| Years in Embedded Systems | 3+ |
+| Years in Embedded Systems | 3.5+ |
 | Lines of C/C++ Written | 20K+ |
 |Lines of Bash Shell Script Written|1k+|
 | Embedded Boards Programmed | 4+ |
 |Open Source Project Contributions|--|
 |Projects in Baremetal and Bootloader programming|--|
 |Projects in Kernel Development|5+|
-|Projects in RTOS|--|
+|Projects in RTOS|1+|
 |Projects in IoT and Embedded Security|--|
 
 
