@@ -1,5 +1,5 @@
 # DARSHAN KHARBIKAR — Sr. Systems Software Engineer
-Embedded systems | Kernel Development | Baremetal programming | RTOS 
+Embedded systems | Kernel Development |Yocto Project| Baremetal programming | RTOS 
 | 5G gNB testing
 
 ## 👨‍💻 About Me
