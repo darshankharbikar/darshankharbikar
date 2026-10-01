@@ -14,16 +14,82 @@ Hi, I'm DARSHAN KHARBIKAR.
 - Ensured gNB compliance with ITSAR security standards.
 - Implemented secure log export (SSL/TCP) and configured Baseboard Management Controller(BMC) for remote monitoring.
 - Tested and configured SMO for gNB telemetry and fault management.
+- I am currently working on BSP for ARM computers
 - Authored detailed technical documentation across development and test phases.
 
+# Skills
 
-## 🛠️ Tech Stack
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-ED1C24?logo=espressif&logoColor=white) ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Embedded C/C++
+- Python
+
+### Microcontrollers
+- RasberryPi 4B
+- Esp32-dev-kit V1
+- STMicroelectronics
+- Atmel 8051
+
+### Communication Protocols
+- I2C
+- SPI
+- UART/USART
+- CAN
+- Ethernet
+- I2S
+- TCP/IP
+- USB
+- SAI
+- SDIO
+- SWD
+- JTAG
+- BACnet
+
+### Peripherals
+- DCMI
+- DMA
+- Clock
+- Timer
+- Real-Time Clock (RTC)
+- GPIO
+- Interrupts
+- ADC
+- DAC
+- Watchdog
+- FSMC
+- DC/D
+
+### RTOS
+- FreeRTOS
+
+### Embedded Software Development
+- Bare-metal Programming
+- Firmware Development
+- Real-Time System Development
+- Kernel Device drivers development
+- BSP
+- yocto Project
+
+---
+
+## 📚 Education
+
+- **Bachelor of Engineering in Electrical Engineering** — Nagpur University , 2018
+- **Master of Technologies in Embedded Systems** — BITS PILANI, 2025
+---
+
+## 🌱 Interests
+
+- Embedded Systems
+- IoT
+- reading History, Farming, Current affairs, Environment
+- Continuous Learning
 
 ## 📊 Work Metrics
 | Metric | Value |
 |-------:|:-----:|
-| Years in Embedded Systems | 3.5+ |
+| Years in Embedded Systems | 4+ |
 | Lines of C/C++ Written | 20K+ |
 |Lines of Bash Shell Script Written|1k+|
 | Embedded Boards Programmed | 4+ |
